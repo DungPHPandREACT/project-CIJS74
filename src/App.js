@@ -1,7 +1,8 @@
 import React from 'react';
+import TestComponent from './components/TestComponent';
 
 const App = () => {
-  return <h1>Test github</h1>;
+  return <TestComponent />;
 };
 
 export default App;
