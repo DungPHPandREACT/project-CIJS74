@@ -1,7 +1,7 @@
 import React from 'react';
 
 const TestComponent = () => {
-  return <div>Test Component, Test Github</div>;
+  return <div>Test git pull</div>;
 };
 
 export default TestComponent;
